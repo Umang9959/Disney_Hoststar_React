@@ -24,11 +24,3 @@ This project is a clone of Disney+ Hotstar built using React.js, Redux, and Fire
 
 - **Firebase Firestore**: Store movie and TV show information such as titles, descriptions, trailers, genres, and other metadata in Firebase Firestore. Firestore provides a flexible and scalable NoSQL database for real-time updates and seamless integration with the application.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/disney-hotstar-clone.git
